@@ -1,13 +1,7 @@
-
-
 <template>
-    <div>ciao</div>
+    <div>La mia prima app in Vite!</div>
 </template>
 
-<script>
-
-
-
-</script>
+<script></script>
 
 <style ></style>
